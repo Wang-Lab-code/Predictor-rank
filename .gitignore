@@ -1,0 +1,13 @@
+# Local R state and dependencies
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+Rlib/
+renv/library/
+# Private variant workbooks and generated analysis results
+*.xlsx
+*.xls
+*_benchmark_v5_results/
+.DS_Store
+Thumbs.db
