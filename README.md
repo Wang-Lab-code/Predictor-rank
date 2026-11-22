@@ -2,7 +2,7 @@
 
 **A unified R workflow for benchmarking variant effect predictors.**
 
-[![R benchmark checks](https://github.com/Wang-Lab-code/Predictor-rank/actions/workflows/r-tests.yml/badge.svg?branch=codex%2Fbenchmark-v5-upgrade)](https://github.com/Wang-Lab-code/Predictor-rank/actions/workflows/r-tests.yml)
+[![R benchmark checks](https://github.com/Wang-Lab-code/Predictor-rank/actions/workflows/r-tests.yml/badge.svg?branch=main)](https://github.com/Wang-Lab-code/Predictor-rank/actions/workflows/r-tests.yml)
 [![R version](https://img.shields.io/badge/R-4.5.1-276DC3?logo=r&logoColor=white)](#quick-start)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
